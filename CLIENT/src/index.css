@@ -1,0 +1,12 @@
+body{
+  margin:0px;
+  background-color: #edf2f4;
+  /* background-color: #ecf39e; */
+  /* background: radial-gradient(ellipse, #93c422 1%,  #ecf39e 78.73% ); */
+}
+
+/* :root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+

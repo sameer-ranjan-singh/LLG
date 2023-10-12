@@ -1,0 +1,1623 @@
+[
+  {
+    "language": "English",
+    "proficiency": "Beginner",
+    "level": "Gold",
+    "difficulty": "Easy",
+    "question": "Which word is a pronoun?",
+    "correctAnswer": "He",
+    "optionsToChoose": {
+      "option1": "Jump",
+      "option2": "He"
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Beginner",
+    "level": "Gold",
+    "difficulty": "Easy",
+    "question": "Which of the following is a preposition?",
+    "correctAnswer": "Under",
+    "optionsToChoose": {
+      "option1": "Cat",
+      "option2": "Under"
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Beginner",
+    "level": "Gold",
+    "difficulty": "Easy",
+    "question": "Identify the subject in the sentence: The cat chased the mouse.",
+    "correctAnswer": "Cat",
+    "optionsToChoose": {
+      "option1": "Chased",
+      "option2": "Cat"
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Beginner",
+    "level": "Gold",
+    "difficulty": "Easy",
+    "question": "What is the plural form of book?",
+    "correctAnswer": "Books",
+    "optionsToChoose": {
+      "option1": "Bookes",
+      "option2": "Books"
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Beginner",
+    "level": "Gold",
+    "difficulty": "Easy",
+    "question": "What is the past tense of the verb sing?",
+    "correctAnswer": "Sang",
+    "optionsToChoose": {
+      "option1": "Sings",
+      "option2": "Sang"
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Beginner",
+    "level": "Gold",
+    "difficulty": "Medium",
+    "question": "Choose the correct sentence:",
+    "correctAnswer": "He went to the store.",
+    "optionsToChoose": {
+      "option1": "He goed to the store.",
+      "option2": "He went to the store."
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Beginner",
+    "level": "Gold",
+    "difficulty": "Medium",
+    "question": "Which sentence is in the passive voice?",
+    "correctAnswer": "The meal was cooked by the chef.",
+    "optionsToChoose": {
+      "option1": "The chef cooked the meal.",
+      "option2": "The meal was cooked by the chef."
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Beginner",
+    "level": "Gold",
+    "difficulty": "Medium",
+    "question": "What is the comparative form of good?",
+    "correctAnswer": "Better",
+    "optionsToChoose": {
+      "option1": "Better",
+      "option2": "Best"
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Beginner",
+    "level": "Gold",
+    "difficulty": "Medium",
+    "question": "Identify the adverb in the sentence: She sang beautifully.",
+    "correctAnswer": "Beautifully",
+    "optionsToChoose": {
+      "option1": "She",
+      "option2": "Beautifully"
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Beginner",
+    "level": "Gold",
+    "difficulty": "Medium",
+    "question": "Which sentence uses correct punctuation?",
+    "correctAnswer": "I like bananas but I don't like apples",
+    "optionsToChoose": {
+      "option1": "I like bananas but, I don't like apples.",
+      "option2": "I like bananas but I don't like apples"
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Beginner",
+    "level": "Gold",
+    "difficulty": "Hard",
+    "question": "What is the antonym of benevolent?",
+    "correctAnswer": "Malevolent",
+    "optionsToChoose": {
+      "option1": "Generous",
+      "option2": "Malevolent"
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Beginner",
+    "level": "Gold",
+    "difficulty": "Hard",
+    "question": "Which sentence demonstrates correct subject-verb agreement?",
+    "correctAnswer": "The team is playing well.",
+    "optionsToChoose": {
+      "option1": "The team are playing well.",
+      "option2": "The team is playing well."
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Beginner",
+    "level": "Gold",
+    "difficulty": "Hard",
+    "question": "Identify the gerund phrase in the sentence:Swimming in the ocean is fun",
+    "correctAnswer": "Swimming",
+    "optionsToChoose": {
+      "option1": "Swimming",
+      "option2": "In the ocean"
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Beginner",
+    "level": "Gold",
+    "difficulty": "Hard",
+    "question": "What is the correct way to combine these sentences: She loves ice cream. She eats it every day.",
+    "correctAnswer": "She loves ice cream and eats it every day.",
+    "optionsToChoose": {
+      "option1": "She loves ice cream, eats it every day.",
+      "option2": "She loves ice cream and eats it every day."
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Beginner",
+    "level": "Gold",
+    "difficulty": "Hard",
+    "question": "Choose the sentence with correct subject-verb agreement:",
+    "correctAnswer": "Neither of them is coming.",
+    "optionsToChoose": {
+      "option1": "Neither of them are coming.",
+      "option2": "Neither of them is coming."
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Beginner",
+    "level": "Platinum",
+    "difficulty": "Easy",
+    "question": "Which word is a pronoun?",
+    "correctAnswer": "He",
+    "optionsToChoose": {
+      "option1": "Jump",
+      "option2": "He"
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Beginner",
+    "level": "Platinum",
+    "difficulty": "Easy",
+    "question": "Which of the following is a preposition?",
+    "correctAnswer": "Under",
+    "optionsToChoose": {
+      "option1": "Cat",
+      "option2": "Under"
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Beginner",
+    "level": "Platinum",
+    "difficulty": "Easy",
+    "question": "Identify the subject in the sentence: The cat chased the mouse.",
+    "correctAnswer": "Cat",
+    "optionsToChoose": {
+      "option1": "Chased",
+      "option2": "Cat"
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Beginner",
+    "level": "Platinum",
+    "difficulty": "Easy",
+    "question": "What is the plural form of book?",
+    "correctAnswer": "Books",
+    "optionsToChoose": {
+      "option1": "Bookes",
+      "option2": "Books"
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Beginner",
+    "level": "Platinum",
+    "difficulty": "Easy",
+    "question": "What is the past tense of the verb sing?",
+    "correctAnswer": "Sang",
+    "optionsToChoose": {
+      "option1": "Sings",
+      "option2": "Sang"
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Beginner",
+    "level": "Platinum",
+    "difficulty": "Medium",
+    "question": "Choose the correct sentence:",
+    "correctAnswer": "He went to the store.",
+    "optionsToChoose": {
+      "option1": "He goed to the store.",
+      "option2": "He went to the store."
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Beginner",
+    "level": "Platinum",
+    "difficulty": "Medium",
+    "question": "Which sentence is in the passive voice?",
+    "correctAnswer": "The meal was cooked by the chef.",
+    "optionsToChoose": {
+      "option1": "The chef cooked the meal.",
+      "option2": "The meal was cooked by the chef."
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Beginner",
+    "level": "Platinum",
+    "difficulty": "Medium",
+    "question": "What is the comparative form of good?",
+    "correctAnswer": "Better",
+    "optionsToChoose": {
+      "option1": "Better",
+      "option2": "Best"
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Beginner",
+    "level": "Platinum",
+    "difficulty": "Medium",
+    "question": "Identify the adverb in the sentence: She sang beautifully.",
+    "correctAnswer": "Beautifully",
+    "optionsToChoose": {
+      "option1": "She",
+      "option2": "Beautifully"
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Beginner",
+    "level": "Platinum",
+    "difficulty": "Medium",
+    "question": "Which sentence uses correct punctuation?",
+    "correctAnswer": "I like bananas but I don't like apples",
+    "optionsToChoose": {
+      "option1": "I like bananas but, I don't like apples.",
+      "option2": "I like bananas but I don't like apples"
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Beginner",
+    "level": "Platinum",
+    "difficulty": "Hard",
+    "question": "What is the antonym of benevolent?",
+    "correctAnswer": "Malevolent",
+    "optionsToChoose": {
+      "option1": "Generous",
+      "option2": "Malevolent"
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Beginner",
+    "level": "Platinum",
+    "difficulty": "Hard",
+    "question": "Which sentence demonstrates correct subject-verb agreement?",
+    "correctAnswer": "The team is playing well.",
+    "optionsToChoose": {
+      "option1": "The team are playing well.",
+      "option2": "The team is playing well."
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Beginner",
+    "level": "Platinum",
+    "difficulty": "Hard",
+    "question": "Identify the gerund phrase in the sentence:Swimming in the ocean is fun",
+    "correctAnswer": "Swimming",
+    "optionsToChoose": {
+      "option1": "Swimming",
+      "option2": "In the ocean"
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Beginner",
+    "level": "Platinum",
+    "difficulty": "Hard",
+    "question": "What is the correct way to combine these sentences: She loves ice cream. She eats it every day.",
+    "correctAnswer": "She loves ice cream and eats it every day.",
+    "optionsToChoose": {
+      "option1": "She loves ice cream, eats it every day.",
+      "option2": "She loves ice cream and eats it every day."
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Beginner",
+    "level": "Platinum",
+    "difficulty": "Hard",
+    "question": "Choose the sentence with correct subject-verb agreement:",
+    "correctAnswer": "Neither of them is coming.",
+    "optionsToChoose": {
+      "option1": "Neither of them are coming.",
+      "option2": "Neither of them is coming."
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Beginner",
+    "level": "Diamond",
+    "difficulty": "Easy",
+    "question": "Which word is a pronoun?",
+    "correctAnswer": "He",
+    "optionsToChoose": {
+      "option1": "Jump",
+      "option2": "He"
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Beginner",
+    "level": "Diamond",
+    "difficulty": "Easy",
+    "question": "Which of the following is a preposition?",
+    "correctAnswer": "Under",
+    "optionsToChoose": {
+      "option1": "Cat",
+      "option2": "Under"
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Beginner",
+    "level": "Diamond",
+    "difficulty": "Easy",
+    "question": "Identify the subject in the sentence: The cat chased the mouse.",
+    "correctAnswer": "Cat",
+    "optionsToChoose": {
+      "option1": "Chased",
+      "option2": "Cat"
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Beginner",
+    "level": "Diamond",
+    "difficulty": "Easy",
+    "question": "What is the plural form of book?",
+    "correctAnswer": "Books",
+    "optionsToChoose": {
+      "option1": "Bookes",
+      "option2": "Books"
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Beginner",
+    "level": "Diamond",
+    "difficulty": "Easy",
+    "question": "What is the past tense of the verb sing?",
+    "correctAnswer": "Sang",
+    "optionsToChoose": {
+      "option1": "Sings",
+      "option2": "Sang"
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Beginner",
+    "level": "Diamond",
+    "difficulty": "Medium",
+    "question": "Choose the correct sentence:",
+    "correctAnswer": "He went to the store.",
+    "optionsToChoose": {
+      "option1": "He goed to the store.",
+      "option2": "He went to the store."
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Beginner",
+    "level": "Diamond",
+    "difficulty": "Medium",
+    "question": "Which sentence is in the passive voice?",
+    "correctAnswer": "The meal was cooked by the chef.",
+    "optionsToChoose": {
+      "option1": "The chef cooked the meal.",
+      "option2": "The meal was cooked by the chef."
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Beginner",
+    "level": "Diamond",
+    "difficulty": "Medium",
+    "question": "What is the comparative form of good?",
+    "correctAnswer": "Better",
+    "optionsToChoose": {
+      "option1": "Better",
+      "option2": "Best"
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Beginner",
+    "level": "Diamond",
+    "difficulty": "Medium",
+    "question": "Identify the adverb in the sentence: She sang beautifully.",
+    "correctAnswer": "Beautifully",
+    "optionsToChoose": {
+      "option1": "She",
+      "option2": "Beautifully"
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Beginner",
+    "level": "Diamond",
+    "difficulty": "Medium",
+    "question": "Which sentence uses correct punctuation?",
+    "correctAnswer": "I like bananas but I don't like apples",
+    "optionsToChoose": {
+      "option1": "I like bananas but, I don't like apples.",
+      "option2": "I like bananas but I don't like apples"
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Beginner",
+    "level": "Diamond",
+    "difficulty": "Hard",
+    "question": "What is the antonym of benevolent?",
+    "correctAnswer": "Malevolent",
+    "optionsToChoose": {
+      "option1": "Generous",
+      "option2": "Malevolent"
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Beginner",
+    "level": "Diamond",
+    "difficulty": "Hard",
+    "question": "Which sentence demonstrates correct subject-verb agreement?",
+    "correctAnswer": "The team is playing well.",
+    "optionsToChoose": {
+      "option1": "The team are playing well.",
+      "option2": "The team is playing well."
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Beginner",
+    "level": "Diamond",
+    "difficulty": "Hard",
+    "question": "Identify the gerund phrase in the sentence:Swimming in the ocean is fun",
+    "correctAnswer": "Swimming",
+    "optionsToChoose": {
+      "option1": "Swimming",
+      "option2": "In the ocean"
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Beginner",
+    "level": "Diamond",
+    "difficulty": "Hard",
+    "question": "What is the correct way to combine these sentences: She loves ice cream. She eats it every day.",
+    "correctAnswer": "She loves ice cream and eats it every day.",
+    "optionsToChoose": {
+      "option1": "She loves ice cream, eats it every day.",
+      "option2": "She loves ice cream and eats it every day."
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Beginner",
+    "level": "Diamond",
+    "difficulty": "Hard",
+    "question": "Choose the sentence with correct subject-verb agreement:",
+    "correctAnswer": "Neither of them is coming.",
+    "optionsToChoose": {
+      "option1": "Neither of them are coming.",
+      "option2": "Neither of them is coming."
+    }
+  },
+
+  {
+    "language": "English",
+    "proficiency": "Intermediate",
+    "level": "Gold",
+    "difficulty": "Easy",
+    "question": "Which word is a pronoun?",
+    "correctAnswer": "He",
+    "optionsToChoose": {
+      "option1": "Jump",
+      "option2": "He"
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Intermediate",
+    "level": "Gold",
+    "difficulty": "Easy",
+    "question": "Which of the following is a preposition?",
+    "correctAnswer": "Under",
+    "optionsToChoose": {
+      "option1": "Cat",
+      "option2": "Under"
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Intermediate",
+    "level": "Gold",
+    "difficulty": "Easy",
+    "question": "Identify the subject in the sentence: The cat chased the mouse.",
+    "correctAnswer": "Cat",
+    "optionsToChoose": {
+      "option1": "Chased",
+      "option2": "Cat"
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Intermediate",
+    "level": "Gold",
+    "difficulty": "Easy",
+    "question": "What is the plural form of book?",
+    "correctAnswer": "Books",
+    "optionsToChoose": {
+      "option1": "Bookes",
+      "option2": "Books"
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Intermediate",
+    "level": "Gold",
+    "difficulty": "Easy",
+    "question": "What is the past tense of the verb sing?",
+    "correctAnswer": "Sang",
+    "optionsToChoose": {
+      "option1": "Sings",
+      "option2": "Sang"
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Intermediate",
+    "level": "Gold",
+    "difficulty": "Medium",
+    "question": "Choose the correct sentence:",
+    "correctAnswer": "He went to the store.",
+    "optionsToChoose": {
+      "option1": "He goed to the store.",
+      "option2": "He went to the store."
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Intermediate",
+    "level": "Gold",
+    "difficulty": "Medium",
+    "question": "Which sentence is in the passive voice?",
+    "correctAnswer": "The meal was cooked by the chef.",
+    "optionsToChoose": {
+      "option1": "The chef cooked the meal.",
+      "option2": "The meal was cooked by the chef."
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Intermediate",
+    "level": "Gold",
+    "difficulty": "Medium",
+    "question": "What is the comparative form of good?",
+    "correctAnswer": "Better",
+    "optionsToChoose": {
+      "option1": "Better",
+      "option2": "Best"
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Intermediate",
+    "level": "Gold",
+    "difficulty": "Medium",
+    "question": "Identify the adverb in the sentence: She sang beautifully.",
+    "correctAnswer": "Beautifully",
+    "optionsToChoose": {
+      "option1": "She",
+      "option2": "Beautifully"
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Intermediate",
+    "level": "Gold",
+    "difficulty": "Medium",
+    "question": "Which sentence uses correct punctuation?",
+    "correctAnswer": "I like bananas but I don't like apples",
+    "optionsToChoose": {
+      "option1": "I like bananas but, I don't like apples.",
+      "option2": "I like bananas but I don't like apples"
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Intermediate",
+    "level": "Gold",
+    "difficulty": "Hard",
+    "question": "What is the antonym of benevolent?",
+    "correctAnswer": "Malevolent",
+    "optionsToChoose": {
+      "option1": "Generous",
+      "option2": "Malevolent"
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Intermediate",
+    "level": "Gold",
+    "difficulty": "Hard",
+    "question": "Which sentence demonstrates correct subject-verb agreement?",
+    "correctAnswer": "The team is playing well.",
+    "optionsToChoose": {
+      "option1": "The team are playing well.",
+      "option2": "The team is playing well."
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Intermediate",
+    "level": "Gold",
+    "difficulty": "Hard",
+    "question": "Identify the gerund phrase in the sentence:Swimming in the ocean is fun",
+    "correctAnswer": "Swimming",
+    "optionsToChoose": {
+      "option1": "Swimming",
+      "option2": "In the ocean"
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Intermediate",
+    "level": "Gold",
+    "difficulty": "Hard",
+    "question": "What is the correct way to combine these sentences: She loves ice cream. She eats it every day.",
+    "correctAnswer": "She loves ice cream and eats it every day.",
+    "optionsToChoose": {
+      "option1": "She loves ice cream, eats it every day.",
+      "option2": "She loves ice cream and eats it every day."
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Intermediate",
+    "level": "Gold",
+    "difficulty": "Hard",
+    "question": "Choose the sentence with correct subject-verb agreement:",
+    "correctAnswer": "Neither of them is coming.",
+    "optionsToChoose": {
+      "option1": "Neither of them are coming.",
+      "option2": "Neither of them is coming."
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Intermediate",
+    "level": "Platinum",
+    "difficulty": "Easy",
+    "question": "Which word is a pronoun?",
+    "correctAnswer": "He",
+    "optionsToChoose": {
+      "option1": "Jump",
+      "option2": "He"
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Intermediate",
+    "level": "Platinum",
+    "difficulty": "Easy",
+    "question": "Which of the following is a preposition?",
+    "correctAnswer": "Under",
+    "optionsToChoose": {
+      "option1": "Cat",
+      "option2": "Under"
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Intermediate",
+    "level": "Platinum",
+    "difficulty": "Easy",
+    "question": "Identify the subject in the sentence: The cat chased the mouse.",
+    "correctAnswer": "Cat",
+    "optionsToChoose": {
+      "option1": "Chased",
+      "option2": "Cat"
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Intermediate",
+    "level": "Platinum",
+    "difficulty": "Easy",
+    "question": "What is the plural form of book?",
+    "correctAnswer": "Books",
+    "optionsToChoose": {
+      "option1": "Bookes",
+      "option2": "Books"
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Intermediate",
+    "level": "Platinum",
+    "difficulty": "Easy",
+    "question": "What is the past tense of the verb sing?",
+    "correctAnswer": "Sang",
+    "optionsToChoose": {
+      "option1": "Sings",
+      "option2": "Sang"
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Intermediate",
+    "level": "Platinum",
+    "difficulty": "Medium",
+    "question": "Choose the correct sentence:",
+    "correctAnswer": "He went to the store.",
+    "optionsToChoose": {
+      "option1": "He goed to the store.",
+      "option2": "He went to the store."
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Intermediate",
+    "level": "Platinum",
+    "difficulty": "Medium",
+    "question": "Which sentence is in the passive voice?",
+    "correctAnswer": "The meal was cooked by the chef.",
+    "optionsToChoose": {
+      "option1": "The chef cooked the meal.",
+      "option2": "The meal was cooked by the chef."
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Intermediate",
+    "level": "Platinum",
+    "difficulty": "Medium",
+    "question": "What is the comparative form of good?",
+    "correctAnswer": "Better",
+    "optionsToChoose": {
+      "option1": "Better",
+      "option2": "Best"
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Intermediate",
+    "level": "Platinum",
+    "difficulty": "Medium",
+    "question": "Identify the adverb in the sentence: She sang beautifully.",
+    "correctAnswer": "Beautifully",
+    "optionsToChoose": {
+      "option1": "She",
+      "option2": "Beautifully"
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Intermediate",
+    "level": "Platinum",
+    "difficulty": "Medium",
+    "question": "Which sentence uses correct punctuation?",
+    "correctAnswer": "I like bananas but I don't like apples",
+    "optionsToChoose": {
+      "option1": "I like bananas but, I don't like apples.",
+      "option2": "I like bananas but I don't like apples"
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Intermediate",
+    "level": "Platinum",
+    "difficulty": "Hard",
+    "question": "What is the antonym of benevolent?",
+    "correctAnswer": "Malevolent",
+    "optionsToChoose": {
+      "option1": "Generous",
+      "option2": "Malevolent"
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Intermediate",
+    "level": "Platinum",
+    "difficulty": "Hard",
+    "question": "Which sentence demonstrates correct subject-verb agreement?",
+    "correctAnswer": "The team is playing well.",
+    "optionsToChoose": {
+      "option1": "The team are playing well.",
+      "option2": "The team is playing well."
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Intermediate",
+    "level": "Platinum",
+    "difficulty": "Hard",
+    "question": "Identify the gerund phrase in the sentence:Swimming in the ocean is fun",
+    "correctAnswer": "Swimming",
+    "optionsToChoose": {
+      "option1": "Swimming",
+      "option2": "In the ocean"
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Intermediate",
+    "level": "Platinum",
+    "difficulty": "Hard",
+    "question": "What is the correct way to combine these sentences: She loves ice cream. She eats it every day.",
+    "correctAnswer": "She loves ice cream and eats it every day.",
+    "optionsToChoose": {
+      "option1": "She loves ice cream, eats it every day.",
+      "option2": "She loves ice cream and eats it every day."
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Intermediate",
+    "level": "Platinum",
+    "difficulty": "Hard",
+    "question": "Choose the sentence with correct subject-verb agreement:",
+    "correctAnswer": "Neither of them is coming.",
+    "optionsToChoose": {
+      "option1": "Neither of them are coming.",
+      "option2": "Neither of them is coming."
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Intermediate",
+    "level": "Diamond",
+    "difficulty": "Easy",
+    "question": "Which word is a pronoun?",
+    "correctAnswer": "He",
+    "optionsToChoose": {
+      "option1": "Jump",
+      "option2": "He"
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Intermediate",
+    "level": "Diamond",
+    "difficulty": "Easy",
+    "question": "Which of the following is a preposition?",
+    "correctAnswer": "Under",
+    "optionsToChoose": {
+      "option1": "Cat",
+      "option2": "Under"
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Intermediate",
+    "level": "Diamond",
+    "difficulty": "Easy",
+    "question": "Identify the subject in the sentence: The cat chased the mouse.",
+    "correctAnswer": "Cat",
+    "optionsToChoose": {
+      "option1": "Chased",
+      "option2": "Cat"
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Intermediate",
+    "level": "Diamond",
+    "difficulty": "Easy",
+    "question": "What is the plural form of book?",
+    "correctAnswer": "Books",
+    "optionsToChoose": {
+      "option1": "Bookes",
+      "option2": "Books"
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Intermediate",
+    "level": "Diamond",
+    "difficulty": "Easy",
+    "question": "What is the past tense of the verb sing?",
+    "correctAnswer": "Sang",
+    "optionsToChoose": {
+      "option1": "Sings",
+      "option2": "Sang"
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Intermediate",
+    "level": "Diamond",
+    "difficulty": "Medium",
+    "question": "Choose the correct sentence:",
+    "correctAnswer": "He went to the store.",
+    "optionsToChoose": {
+      "option1": "He goed to the store.",
+      "option2": "He went to the store."
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Intermediate",
+    "level": "Diamond",
+    "difficulty": "Medium",
+    "question": "Which sentence is in the passive voice?",
+    "correctAnswer": "The meal was cooked by the chef.",
+    "optionsToChoose": {
+      "option1": "The chef cooked the meal.",
+      "option2": "The meal was cooked by the chef."
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Intermediate",
+    "level": "Diamond",
+    "difficulty": "Medium",
+    "question": "What is the comparative form of good?",
+    "correctAnswer": "Better",
+    "optionsToChoose": {
+      "option1": "Better",
+      "option2": "Best"
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Intermediate",
+    "level": "Diamond",
+    "difficulty": "Medium",
+    "question": "Identify the adverb in the sentence: She sang beautifully.",
+    "correctAnswer": "Beautifully",
+    "optionsToChoose": {
+      "option1": "She",
+      "option2": "Beautifully"
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Intermediate",
+    "level": "Diamond",
+    "difficulty": "Medium",
+    "question": "Which sentence uses correct punctuation?",
+    "correctAnswer": "I like bananas but I don't like apples",
+    "optionsToChoose": {
+      "option1": "I like bananas but, I don't like apples.",
+      "option2": "I like bananas but I don't like apples"
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Intermediate",
+    "level": "Diamond",
+    "difficulty": "Hard",
+    "question": "What is the antonym of benevolent?",
+    "correctAnswer": "Malevolent",
+    "optionsToChoose": {
+      "option1": "Generous",
+      "option2": "Malevolent"
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Intermediate",
+    "level": "Diamond",
+    "difficulty": "Hard",
+    "question": "Which sentence demonstrates correct subject-verb agreement?",
+    "correctAnswer": "The team is playing well.",
+    "optionsToChoose": {
+      "option1": "The team are playing well.",
+      "option2": "The team is playing well."
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Intermediate",
+    "level": "Diamond",
+    "difficulty": "Hard",
+    "question": "Identify the gerund phrase in the sentence:Swimming in the ocean is fun",
+    "correctAnswer": "Swimming",
+    "optionsToChoose": {
+      "option1": "Swimming",
+      "option2": "In the ocean"
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Intermediate",
+    "level": "Diamond",
+    "difficulty": "Hard",
+    "question": "What is the correct way to combine these sentences: She loves ice cream. She eats it every day.",
+    "correctAnswer": "She loves ice cream and eats it every day.",
+    "optionsToChoose": {
+      "option1": "She loves ice cream, eats it every day.",
+      "option2": "She loves ice cream and eats it every day."
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Intermediate",
+    "level": "Diamond",
+    "difficulty": "Hard",
+    "question": "Choose the sentence with correct subject-verb agreement:",
+    "correctAnswer": "Neither of them is coming.",
+    "optionsToChoose": {
+      "option1": "Neither of them are coming.",
+      "option2": "Neither of them is coming."
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Advance",
+    "level": "Gold",
+    "difficulty": "Easy",
+    "question": "Which word is a pronoun?",
+    "correctAnswer": "He",
+    "optionsToChoose": {
+      "option1": "Jump",
+      "option2": "He"
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Advance",
+    "level": "Gold",
+    "difficulty": "Easy",
+    "question": "Which of the following is a preposition?",
+    "correctAnswer": "Under",
+    "optionsToChoose": {
+      "option1": "Cat",
+      "option2": "Under"
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Advance",
+    "level": "Gold",
+    "difficulty": "Easy",
+    "question": "Identify the subject in the sentence: The cat chased the mouse.",
+    "correctAnswer": "Cat",
+    "optionsToChoose": {
+      "option1": "Chased",
+      "option2": "Cat"
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Advance",
+    "level": "Gold",
+    "difficulty": "Easy",
+    "question": "What is the plural form of book?",
+    "correctAnswer": "Books",
+    "optionsToChoose": {
+      "option1": "Bookes",
+      "option2": "Books"
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Advance",
+    "level": "Gold",
+    "difficulty": "Easy",
+    "question": "What is the past tense of the verb sing?",
+    "correctAnswer": "Sang",
+    "optionsToChoose": {
+      "option1": "Sings",
+      "option2": "Sang"
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Advance",
+    "level": "Gold",
+    "difficulty": "Medium",
+    "question": "Choose the correct sentence:",
+    "correctAnswer": "He went to the store.",
+    "optionsToChoose": {
+      "option1": "He goed to the store.",
+      "option2": "He went to the store."
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Advance",
+    "level": "Gold",
+    "difficulty": "Medium",
+    "question": "Which sentence is in the passive voice?",
+    "correctAnswer": "The meal was cooked by the chef.",
+    "optionsToChoose": {
+      "option1": "The chef cooked the meal.",
+      "option2": "The meal was cooked by the chef."
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Advance",
+    "level": "Gold",
+    "difficulty": "Medium",
+    "question": "What is the comparative form of good?",
+    "correctAnswer": "Better",
+    "optionsToChoose": {
+      "option1": "Better",
+      "option2": "Best"
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Advance",
+    "level": "Gold",
+    "difficulty": "Medium",
+    "question": "Identify the adverb in the sentence: She sang beautifully.",
+    "correctAnswer": "Beautifully",
+    "optionsToChoose": {
+      "option1": "She",
+      "option2": "Beautifully"
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Advance",
+    "level": "Gold",
+    "difficulty": "Medium",
+    "question": "Which sentence uses correct punctuation?",
+    "correctAnswer": "I like bananas but I don't like apples",
+    "optionsToChoose": {
+      "option1": "I like bananas but, I don't like apples.",
+      "option2": "I like bananas but I don't like apples"
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Advance",
+    "level": "Gold",
+    "difficulty": "Hard",
+    "question": "What is the antonym of benevolent?",
+    "correctAnswer": "Malevolent",
+    "optionsToChoose": {
+      "option1": "Generous",
+      "option2": "Malevolent"
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Advance",
+    "level": "Gold",
+    "difficulty": "Hard",
+    "question": "Which sentence demonstrates correct subject-verb agreement?",
+    "correctAnswer": "The team is playing well.",
+    "optionsToChoose": {
+      "option1": "The team are playing well.",
+      "option2": "The team is playing well."
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Advance",
+    "level": "Gold",
+    "difficulty": "Hard",
+    "question": "Identify the gerund phrase in the sentence:Swimming in the ocean is fun",
+    "correctAnswer": "Swimming",
+    "optionsToChoose": {
+      "option1": "Swimming",
+      "option2": "In the ocean"
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Advance",
+    "level": "Gold",
+    "difficulty": "Hard",
+    "question": "What is the correct way to combine these sentences: She loves ice cream. She eats it every day.",
+    "correctAnswer": "She loves ice cream and eats it every day.",
+    "optionsToChoose": {
+      "option1": "She loves ice cream, eats it every day.",
+      "option2": "She loves ice cream and eats it every day."
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Advance",
+    "level": "Gold",
+    "difficulty": "Hard",
+    "question": "Choose the sentence with correct subject-verb agreement:",
+    "correctAnswer": "Neither of them is coming.",
+    "optionsToChoose": {
+      "option1": "Neither of them are coming.",
+      "option2": "Neither of them is coming."
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Advance",
+    "level": "Platinum",
+    "difficulty": "Easy",
+    "question": "Which word is a pronoun?",
+    "correctAnswer": "He",
+    "optionsToChoose": {
+      "option1": "Jump",
+      "option2": "He"
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Advance",
+    "level": "Platinum",
+    "difficulty": "Easy",
+    "question": "Which of the following is a preposition?",
+    "correctAnswer": "Under",
+    "optionsToChoose": {
+      "option1": "Cat",
+      "option2": "Under"
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Advance",
+    "level": "Platinum",
+    "difficulty": "Easy",
+    "question": "Identify the subject in the sentence: The cat chased the mouse.",
+    "correctAnswer": "Cat",
+    "optionsToChoose": {
+      "option1": "Chased",
+      "option2": "Cat"
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Advance",
+    "level": "Platinum",
+    "difficulty": "Easy",
+    "question": "What is the plural form of book?",
+    "correctAnswer": "Books",
+    "optionsToChoose": {
+      "option1": "Bookes",
+      "option2": "Books"
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Advance",
+    "level": "Platinum",
+    "difficulty": "Easy",
+    "question": "What is the past tense of the verb sing?",
+    "correctAnswer": "Sang",
+    "optionsToChoose": {
+      "option1": "Sings",
+      "option2": "Sang"
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Advance",
+    "level": "Platinum",
+    "difficulty": "Medium",
+    "question": "Choose the correct sentence:",
+    "correctAnswer": "He went to the store.",
+    "optionsToChoose": {
+      "option1": "He goed to the store.",
+      "option2": "He went to the store."
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Advance",
+    "level": "Platinum",
+    "difficulty": "Medium",
+    "question": "Which sentence is in the passive voice?",
+    "correctAnswer": "The meal was cooked by the chef.",
+    "optionsToChoose": {
+      "option1": "The chef cooked the meal.",
+      "option2": "The meal was cooked by the chef."
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Advance",
+    "level": "Platinum",
+    "difficulty": "Medium",
+    "question": "What is the comparative form of good?",
+    "correctAnswer": "Better",
+    "optionsToChoose": {
+      "option1": "Better",
+      "option2": "Best"
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Advance",
+    "level": "Platinum",
+    "difficulty": "Medium",
+    "question": "Identify the adverb in the sentence: She sang beautifully.",
+    "correctAnswer": "Beautifully",
+    "optionsToChoose": {
+      "option1": "She",
+      "option2": "Beautifully"
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Advance",
+    "level": "Platinum",
+    "difficulty": "Medium",
+    "question": "Which sentence uses correct punctuation?",
+    "correctAnswer": "I like bananas but I don't like apples",
+    "optionsToChoose": {
+      "option1": "I like bananas but, I don't like apples.",
+      "option2": "I like bananas but I don't like apples"
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Advance",
+    "level": "Platinum",
+    "difficulty": "Hard",
+    "question": "What is the antonym of benevolent?",
+    "correctAnswer": "Malevolent",
+    "optionsToChoose": {
+      "option1": "Generous",
+      "option2": "Malevolent"
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Advance",
+    "level": "Platinum",
+    "difficulty": "Hard",
+    "question": "Which sentence demonstrates correct subject-verb agreement?",
+    "correctAnswer": "The team is playing well.",
+    "optionsToChoose": {
+      "option1": "The team are playing well.",
+      "option2": "The team is playing well."
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Advance",
+    "level": "Platinum",
+    "difficulty": "Hard",
+    "question": "Identify the gerund phrase in the sentence:Swimming in the ocean is fun",
+    "correctAnswer": "Swimming",
+    "optionsToChoose": {
+      "option1": "Swimming",
+      "option2": "In the ocean"
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Advance",
+    "level": "Platinum",
+    "difficulty": "Hard",
+    "question": "What is the correct way to combine these sentences: She loves ice cream. She eats it every day.",
+    "correctAnswer": "She loves ice cream and eats it every day.",
+    "optionsToChoose": {
+      "option1": "She loves ice cream, eats it every day.",
+      "option2": "She loves ice cream and eats it every day."
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Advance",
+    "level": "Platinum",
+    "difficulty": "Hard",
+    "question": "Choose the sentence with correct subject-verb agreement:",
+    "correctAnswer": "Neither of them is coming.",
+    "optionsToChoose": {
+      "option1": "Neither of them are coming.",
+      "option2": "Neither of them is coming."
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Advance",
+    "level": "Diamond",
+    "difficulty": "Easy",
+    "question": "Which word is a pronoun?",
+    "correctAnswer": "He",
+    "optionsToChoose": {
+      "option1": "Jump",
+      "option2": "He"
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Advance",
+    "level": "Diamond",
+    "difficulty": "Easy",
+    "question": "Which of the following is a preposition?",
+    "correctAnswer": "Under",
+    "optionsToChoose": {
+      "option1": "Cat",
+      "option2": "Under"
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Advance",
+    "level": "Diamond",
+    "difficulty": "Easy",
+    "question": "Identify the subject in the sentence: The cat chased the mouse.",
+    "correctAnswer": "Cat",
+    "optionsToChoose": {
+      "option1": "Chased",
+      "option2": "Cat"
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Advance",
+    "level": "Diamond",
+    "difficulty": "Easy",
+    "question": "What is the plural form of book?",
+    "correctAnswer": "Books",
+    "optionsToChoose": {
+      "option1": "Bookes",
+      "option2": "Books"
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Advance",
+    "level": "Diamond",
+    "difficulty": "Easy",
+    "question": "What is the past tense of the verb sing?",
+    "correctAnswer": "Sang",
+    "optionsToChoose": {
+      "option1": "Sings",
+      "option2": "Sang"
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Advance",
+    "level": "Diamond",
+    "difficulty": "Medium",
+    "question": "Choose the correct sentence:",
+    "correctAnswer": "He went to the store.",
+    "optionsToChoose": {
+      "option1": "He goed to the store.",
+      "option2": "He went to the store."
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Advance",
+    "level": "Diamond",
+    "difficulty": "Medium",
+    "question": "Which sentence is in the passive voice?",
+    "correctAnswer": "The meal was cooked by the chef.",
+    "optionsToChoose": {
+      "option1": "The chef cooked the meal.",
+      "option2": "The meal was cooked by the chef."
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Advance",
+    "level": "Diamond",
+    "difficulty": "Medium",
+    "question": "What is the comparative form of good?",
+    "correctAnswer": "Better",
+    "optionsToChoose": {
+      "option1": "Better",
+      "option2": "Best"
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Advance",
+    "level": "Diamond",
+    "difficulty": "Medium",
+    "question": "Identify the adverb in the sentence: She sang beautifully.",
+    "correctAnswer": "Beautifully",
+    "optionsToChoose": {
+      "option1": "She",
+      "option2": "Beautifully"
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Advance",
+    "level": "Diamond",
+    "difficulty": "Medium",
+    "question": "Which sentence uses correct punctuation?",
+    "correctAnswer": "I like bananas but I don't like apples",
+    "optionsToChoose": {
+      "option1": "I like bananas but, I don't like apples.",
+      "option2": "I like bananas but I don't like apples"
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Advance",
+    "level": "Diamond",
+    "difficulty": "Hard",
+    "question": "What is the antonym of benevolent?",
+    "correctAnswer": "Malevolent",
+    "optionsToChoose": {
+      "option1": "Generous",
+      "option2": "Malevolent"
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Advance",
+    "level": "Diamond",
+    "difficulty": "Hard",
+    "question": "Which sentence demonstrates correct subject-verb agreement?",
+    "correctAnswer": "The team is playing well.",
+    "optionsToChoose": {
+      "option1": "The team are playing well.",
+      "option2": "The team is playing well."
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Advance",
+    "level": "Diamond",
+    "difficulty": "Hard",
+    "question": "Identify the gerund phrase in the sentence:Swimming in the ocean is fun",
+    "correctAnswer": "Swimming",
+    "optionsToChoose": {
+      "option1": "Swimming",
+      "option2": "In the ocean"
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Advance",
+    "level": "Diamond",
+    "difficulty": "Hard",
+    "question": "What is the correct way to combine these sentences: She loves ice cream. She eats it every day.",
+    "correctAnswer": "She loves ice cream and eats it every day.",
+    "optionsToChoose": {
+      "option1": "She loves ice cream, eats it every day.",
+      "option2": "She loves ice cream and eats it every day."
+    }
+  },
+  {
+    "language": "English",
+    "proficiency": "Advance",
+    "level": "Diamond",
+    "difficulty": "Hard",
+    "question": "Choose the sentence with correct subject-verb agreement:",
+    "correctAnswer": "Neither of them is coming.",
+    "optionsToChoose": {
+      "option1": "Neither of them are coming.",
+      "option2": "Neither of them is coming."
+    }
+  }
+]
