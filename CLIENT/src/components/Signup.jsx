@@ -54,7 +54,7 @@ function Signup() {
                         fullWidth={true}
                         id="outlined-basic"
                         label="Username"
-                        variant="standard"
+                        variant="outlined"
                     />
                 </div>
                 <div style={{ marginBottom: 20 }}>
@@ -65,7 +65,7 @@ function Signup() {
                         fullWidth={true}
                         id="outlined-basic-1"
                         label="Enter your Email"
-                        variant="standard"
+                        variant="outlined"
                     />
                 </div>
                 <div style={{ marginBottom: 10 }}>
@@ -76,7 +76,7 @@ function Signup() {
                         fullWidth={true}
                         id="outlined-basic-2"
                         label="Password"
-                        variant="standard"
+                        variant="outlined"
                         type={"password"}
                     />
                 </div>
@@ -103,10 +103,13 @@ function Signup() {
                                 password: password
                             })
                             const data = response.data
+                            console.log(data)
                             localStorage.setItem("token", data.token)
+
                             setUser({
                                 isLoading: false,
-                                userName: username
+                                userName: username,
+                                userId : data.newUser._id
                             })
 
                             if(progressState){
@@ -123,9 +126,9 @@ function Signup() {
                     >Create Account</Button>
                 </div>
                 <p style={{
-                    margin: "10px 0px 0px 5px",
+                    margin: "20px 0px 0px 5px",
                     fontWeight: "bold",
-                    textAlign: "center",
+                    textAlign: "start",
                     color:"var(--grey-color)",
                 }}>Already have an account ?
                     <span
@@ -138,8 +141,6 @@ function Signup() {
 
             </Card>
         </div>
-
-
     </div>
 }
 

@@ -132,11 +132,7 @@ function Appbar({}) {
                   />
                 }
               />
-              {/* <Link
-                to="http://sameer-campus.vercel.app"
-                target="_blank"
-                rel="noopener noreferrer"
-              > */}
+              
                 <Button
                   variant={""}
                   style={{
@@ -150,6 +146,7 @@ function Appbar({}) {
                     setUser({
                       isLoading: false,
                       userName: null,
+                      userId : null
                     });
 
                     navigate("/");

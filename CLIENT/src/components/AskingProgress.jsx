@@ -51,8 +51,6 @@ function AskingProgress() {
             fontSize:"larger",
             color:"var(--secondary-color)",
             letterSpacing:5
-            // display:"flex",
-            // justifyContent:"center"
             }}>
         LEVEL
      </FormLabel>
@@ -76,8 +74,6 @@ function AskingProgress() {
             fontSize:"larger",
             color:"var(--secondary-color)",
             letterSpacing:5
-            // display:"flex",
-            // justifyContent:"center"
             }}>
         LANGUAGE
       </FormLabel>
@@ -99,8 +95,6 @@ function AskingProgress() {
             fontSize:"larger",
             color:"var(--secondary-color)",
             letterSpacing:5
-            // display:"flex",
-            // justifyContent:"center"
             }}>
         DIFFICULTY
      </FormLabel>
@@ -124,8 +118,6 @@ function AskingProgress() {
             fontSize:"larger",
             color:"var(--secondary-color)",
             letterSpacing:5
-            // display:"flex",
-            // justifyContent:"center"
             }}>
         PROFICIENCY
      </FormLabel>
@@ -173,8 +165,7 @@ function AskingProgress() {
                 solvedQuestionId:solvedQuestionId
             }
           })
-          navigate(`${"/quiz/" + language + "/" + value + "/" + level + "/" + difficulty}`);
-          // navigate(`${"/course/" + course._id}`);
+          navigate(`${"/updateUser/" + userId + "/" + data.progressId }`);
 
       }}
       size='large'
@@ -188,7 +179,7 @@ function AskingProgress() {
         fontWeight:"bold",
         boxShadow: "0px 5px 10px var(--grey-color)",
     }} 
-      >Start</Button>
+      >Next</Button>
 
     </FormControl>
   </div>

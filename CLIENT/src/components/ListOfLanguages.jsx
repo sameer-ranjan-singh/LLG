@@ -42,13 +42,13 @@ function ListOfLanguages( languages , setLanguages) {
         </>
       </div>
     </div>
-    <div className="btn-next">
+    {/* <div className="btn-next">
       <Button
       variant="contained"
       fullWidth={true}
        >n e x t
       </Button>
-    </div> 
+    </div>  */}
      
     </>
   )

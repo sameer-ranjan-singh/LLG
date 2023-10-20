@@ -22,12 +22,13 @@ export default function Quiz () {
   const progressId = useRecoilValue(progressIdSelector)
   const solvedQuestionId = useRecoilValue(solvedQuestionIdSelector)
 
+  // console.log(progressId)
+
   const { language, proficiency, level, difficulty } = useParams();
 
   const [questions, setQuestions] = useState("");
   const [score, setScore] = useState(0); 
   const [answeredQuestions, setAnsweredQuestions] = useState([]);
-  // const [allAnswered,setAllAnswered] = useState(false)
 
   const [open, setOpen] = React.useState(false);
   const handleOpen = () => setOpen(true);
@@ -58,7 +59,7 @@ export default function Quiz () {
       }
     );
     setQuestions(response.data.questions);
-    console.log("questions :"+questions)
+    // console.log("questions :"+questions)
   };
   useEffect(() => {
     init();
@@ -66,16 +67,10 @@ export default function Quiz () {
 
 // checking if all questions are attempted before rendering the Score Checking button
   const allAnswered = answeredQuestions.length === questions.length;
-  //  setAllAnswered = answeredQuestions.length === questions.length;
    
-// useEffect(() => {
-//   if(answeredQuestions.length === questions.length){
-//     setAllAnswered(true)
-//   }
-// }, []);
 
-  console.log("No.of questions answered :"+answeredQuestions.length)
-  console.log("All answered :"+ allAnswered)
+  // console.log("No.of questions answered :"+answeredQuestions.length)
+  // console.log("All answered :"+ allAnswered)
 
 //Loading while fetching request
   if (questions.length === 0) {
@@ -155,27 +150,7 @@ const style = {
                   <Button 
                   variant='contained'
                   onClick={async ()=>{
-                    // if(difficulty === "Easy"){
-                    //   difficulty = "Medium"
-                    // }else if(difficulty === "Medium"){
-                    //   difficulty = "Hard"
-                    // }else{
-                    //   difficulty = "Easy"
-                    //   if(level ==="Gold"){
-                    //     level = "Platinum"
-                    //   }else if(level ==="Platinum"){
-                    //     level = "Diamond"
-                    //   }else {
-                    //     level = "Gold"
-                    //     if(proficiency ==="Beginner"){
-                    //       proficiency = "Intermediate"
-                    //     }else if(proficiency ==="Intermediate"){
-                    //       proficiency = "Advance"
-                    //     }else {
-                    //       proficiency = "Beginner"
-                    //     }
-                    //   }
-                    // }
+                    
                     let nextDifficulty = difficulty;
                     let nextLevel = level;
                     let nextProficiency = proficiency;
@@ -203,7 +178,9 @@ const style = {
                         }
                       }
                     }
-
+                    // console.log(nextProficiency)
+                    // console.log(nextLevel)
+                    // console.log(nextDifficulty)
 
                     const response = await axios.put(`${Base_URL}/user/updateProgress`,
                     {
@@ -224,7 +201,7 @@ const style = {
                   
                   
                   const data = response.data;
-                  console.log(data);
+                  // console.log(data);
                   
                   setProgress({
                     isLoading: false,
@@ -238,9 +215,7 @@ const style = {
                         solvedQuestionId:answeredQuestions
                     }
                   })
-                  // answeredQuestions = []
                   setAnsweredQuestions([])
-                  // setAllAnswered(false)
                   handleClose()
                   setScore(0)
                     navigate(`${"/quiz/" + language + "/" + nextProficiency + "/" + nextLevel + "/" + nextDifficulty}`);
@@ -267,9 +242,3 @@ const style = {
     </>
   );
 }
-
-
-  // console.log('language:', language);
-    // console.log('proficiency:', proficiency);
-    // console.log('level:', level);
-    // console.log('difficulty:', difficulty);

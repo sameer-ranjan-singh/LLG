@@ -1,4 +1,3 @@
-// "test": "echo \"Error: no test specified\" && exit 1",
 const mongoose = require("mongoose")
 
 // Define mongoose schemas

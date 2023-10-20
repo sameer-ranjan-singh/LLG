@@ -54,7 +54,7 @@ function Signin() {
               fullWidth={true}
               id="outlined-basic-3"
               label="Username"
-              variant="standard"
+              variant="outlined"
             />
           </div>
           <div style={{ marginBottom: 10 }}>
@@ -65,7 +65,7 @@ function Signin() {
               fullWidth={true}
               id="outlined-basic-4"
               label="Password"
-              variant="standard"
+              variant="outlined"
               type={"password"}
             />
           </div>
@@ -97,16 +97,10 @@ function Signin() {
                 );
                 const data = response.data;
                 localStorage.setItem("token", data.token);
-
-                console.log(data.user._id)
-                console.log(typeof data.user._id)
-                console.log(data.progressTillNow._id)
-                console.log(typeof data.progressTillNow._id)
-
-
                 setUser({
                   isLoading: false,
                   userName: username,
+                  userId : data.user._id
                 });
 
                 if(progressState){
@@ -114,6 +108,7 @@ function Signin() {
                     isLoading : false,
                     progress : data.progressTillNow
                   })
+                  console.log(data.progressTillNow)
                   navigate("/continueLearning");
 
                 }else{

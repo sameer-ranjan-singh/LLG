@@ -10,7 +10,6 @@ import { userState } from "./store/atoms/user";
 import ListOfLanguages from './components/ListOfLanguages';
 import AskingProgress from './components/AskingProgress';
 import Quiz from './components/Quiz';
-import ShowResult from './components/ShowResult';
 
 import { useEffect } from "react";
 import axios from "axios"
@@ -19,8 +18,8 @@ import {
   RecoilRoot,
   useSetRecoilState,
 } from 'recoil';
-import Score from './components/MUI/Score';
 import ContinueLearning from './components/ContinueLearning';
+import StartQuiz from './components/StartQuiz';
 
 function App(){
 
@@ -40,8 +39,8 @@ function App(){
                   <Route path="/continueLearning" element={<ContinueLearning/>}/>
                   <Route path="/allLanguages" element={<ListOfLanguages/>}/>
                   <Route path="/createProgress" element={<AskingProgress/>}/>
+                  <Route path="/updateUser/:userId/:progressId" element={<StartQuiz/>}/>
                   <Route path="/quiz/:language/:proficiency/:level/:difficulty" element={<Quiz/>}/>
-                  {/* <Route path="/updateProgress/:progressId" element={<Score/>}/> */}
               </Routes>
               {/* <Footer/> */}
           </Router>
