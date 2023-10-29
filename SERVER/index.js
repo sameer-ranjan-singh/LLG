@@ -23,11 +23,8 @@ app.use(cors({
 app.use(function(req,res,next){
   res.header("Content-Type", "application/json;charseu=UTF-8")
   res.header("Access-Control-Allow-Credentials", true)
-  res.header(
-    "Access-Control-Allow-Credentials",
-     "Origin, X-requested-With, Content-Type, Accept",
-     "Access-Control-Allow-Origin"
-  )
+  res.header("Access-Control-Allow-Origin", true)
+  res.header("Origin, X-requested-With, Content-Type, Accept")
   next()
 })
 
