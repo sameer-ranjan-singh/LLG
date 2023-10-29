@@ -25,12 +25,13 @@ app.use(function(req,res,next){
   res.header("Access-Control-Allow-Credentials", true)
   res.header(
     "Access-Control-Allow-Credentials",
-     "Origin, X-requested-With, Content-Type, Accept"
+     "Origin, X-requested-With, Content-Type, Accept",
+     "Access-Control-Allow-Origin"
   )
   next()
 })
 
-const adminRouter = require("./routes/admin")
+// const adminRouter = require("./routes/admin")
 const userRouter = require("./routes/user")
 
 app.use(express.json())
